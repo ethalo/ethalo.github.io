@@ -1,0 +1,8 @@
+1-Open /js/script.js
+
+Change line 8 from    Pace.on("done", function () {
+To: $(document).on("ready", function () {
+
+
+
+2-Replace css/stylesheet.css 
